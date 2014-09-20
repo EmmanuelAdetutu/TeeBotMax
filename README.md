@@ -11,3 +11,16 @@ The Idea was to design and develop a 3D printer which is simple to build, easy t
 
 
 Blog, Photo, Info:  http://tutuemma.wordpress.com/3d-stuffs/teebotmax/
+
+
+Issues
+=========
+
+Z ROD HOLDER
+8mm hole in the "Z ROD HOLDER" was missing in the left holder, also the mounting hole was 3mm instaed of 5mm, you can drill both holes out with a 8mm and 5mm drill if you already printed.... new file uploaded.
+
+Ramps casing
+STL file uploaded, the casing sit perfectly on a 112mm power supply only.
+
+Extruder Stepper motor size
+Large stepper motors with lenght bigger than 38mm, do not sit perfect on the extruder mount. You will need to print an attachment and use longer bolts if using the teestruder.
