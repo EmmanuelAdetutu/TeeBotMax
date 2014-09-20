@@ -23,4 +23,4 @@ Ramps casing.
 STL file uploaded, the casing sit perfectly on a 112mm power supply only.
 
 Extruder Stepper motor size.
-Large stepper motors with lenght bigger than 38mm, do not sit perfect on the extruder mount. You will need to print an attachment and use longer bolts if using the teestruder.
+Large stepper motors with lenght bigger than 38mm, do not sit perfect on the extruder mount. You will need to print the uploaded attachment and use longer bolts if using the teestruder.
