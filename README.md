@@ -12,6 +12,8 @@ The Idea was to design and develop a 3D printer which is simple to build, easy t
 
 Blog, Photo, Info:  http://tutuemma.wordpress.com/3d-stuffs/teebotmax/
 
+Build Video Part 1: Main frame www.youtube.com/watch?v=NjGQo88e40w
+
 
 Issues
 =========
