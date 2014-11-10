@@ -26,3 +26,9 @@ STL file uploaded, the casing sit perfectly on a 112mm power supply only.
 
 Extruder Stepper motor size.
 Large stepper motors with lenght bigger than 38mm, do not sit perfect on the extruder mount. You will need to print the uploaded attachment and use longer bolts if using the teestruder.
+
+Missing Illustration on how to mount the limit switch and Smart Z level have been added to the documentation. I also added a new Extruder mount for larger stepper motors elimination the use of the extension above.
+
+Software folder contains pre-config Marlin should work 100% if you have the complete kit, if you build the printer from your own part all that might require is calibrations for the steps/mm.
+
+Many thanks to builders and contributors who havae been giving the feedback
