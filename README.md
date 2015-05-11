@@ -1,5 +1,7 @@
 TeeBotMax
 =========
+Version_2  is released
+www.3dstuffs.nl/teebotmax
 
 This is TeeBotMax printed parts (all STL files).
 
@@ -34,3 +36,7 @@ Missing Illustration on how to mount the limit switch and Smart Z level have bee
 Software folder contains pre-config Marlin should work 100% if you have the complete kit, if you build the printer from your own part all that might require is calibrations for the steps/mm.
 
 Many thanks to builders and contributors who havae been giving the feedback
+
+UPDATE
+Version 2 TeeBotMax in Available. Auto Bed leveling with modified plastic parts.
+Visit www.3dstuffs.nl
