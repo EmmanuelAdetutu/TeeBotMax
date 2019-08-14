@@ -17,3 +17,5 @@ Version2
 
 Many thanks to builders and contributors who have been giving the feedbacks, there is an update version of the TeebotMax featured with Auto-Bed leveling, strong modified plastic parts and other cool fixes.
 
+
+<b>***folow me on instagram...  </b>[#teebot3d](https://www.instagram.com/teebot3d/)
