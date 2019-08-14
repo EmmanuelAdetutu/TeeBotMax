@@ -1,12 +1,8 @@
 TeeBotMax
 =========
 
-
-This is TeeBotMax printed parts (all STL files).
-
-<b>TeeBotMax is a RepRap printer.</b><br> 
 The design is highly inspired by the fantastic Foldarap and Prusa I3 3D printers. I needed a 3D printer I can fold and carry around easily.
-The Idea was to develop a 3D printer which is simple to build and at the same time, easy to move around and travel with, built with simple materials and equally strong and precise.
+The idea was to develop a high qiality 3D printer which is simple to build and at the same time, easy to move around and travel with, built with simple materials and equally strong and precise.
 
 Blog, Photo, Info:  http://tutuemma.wordpress.com/3d-stuffs/teebotmax/
 
