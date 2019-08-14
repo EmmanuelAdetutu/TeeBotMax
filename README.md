@@ -15,5 +15,5 @@ The second iteration of the design resulted in a version that fits and works in 
 Version2  
 =========
 
-Many thanks to builders and contributors who havae been giving the feedback, there is an update version2 of TeebotMax featured with Auto Bed leveling, strong modified plastic part and other fixed issues.
+Many thanks to builders and contributors who have been giving the feedbacks, there is an update version of the TeebotMax featured with Auto-Bed leveling, strong modified plastic parts and other cool fixes.
 
