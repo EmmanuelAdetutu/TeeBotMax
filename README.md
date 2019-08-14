@@ -1,7 +1,6 @@
 TeeBotMax
 =========
-Version_2  is released
-www.3dstuffs.nl/teebotmax
+
 
 This is TeeBotMax printed parts (all STL files).
 
@@ -16,10 +15,9 @@ Blog, Photo, Info:  http://tutuemma.wordpress.com/3d-stuffs/teebotmax/
 
 Build Video Part 1: https://www.youtube.com/watch?v=Mo2O-83_jfQ
 
-Photos: https://plus.google.com/106611509110430377536/photos
 
 
-Issues
+Pending fixes
 =========
 
 Z ROD HOLDER.
@@ -38,5 +36,5 @@ Software folder contains pre-config Marlin should work 100% if you have the comp
 Many thanks to builders and contributors who havae been giving the feedback
 
 UPDATE
-Version 2 TeeBotMax in Available. Auto Bed leveling with modified plastic parts.
-Visit www.3dstuffs.nl
+Version 2 TeeBotMax in Available. Auto Bed leveling,modified plastic part and fixed issues.
+
